@@ -1,2 +1,2 @@
 # hello-java
-Problema 1.
+Scrieti un program care pentru un sir de caratectere, afiseaza numarul de aparitii al unui caracter dat. 
